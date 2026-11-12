@@ -1,0 +1,7 @@
+scoring,occupation,cosine,Analytical,Creative,Systems,Resilience,Empathy,Oral comm,Written comm,Leadership,Service,Tech literacy
+hearing_default,Customer Service Rep,0.9424,0.0734,0.0352,0.0361,0.1732,0.1856,0.0629,0.0961,0.0655,0.1856,0.0288
+hearing_default,IT Support Specialist,0.9312,0.0843,0.0522,0.0543,0.1500,0.1730,0.0611,0.1120,0.0611,0.1223,0.0611
+hearing_default,Retail Sales Assistant,0.9291,0.0714,0.0362,0.0299,0.1654,0.1756,0.0620,0.0823,0.0970,0.1756,0.0337
+deaf_inclusive,Customer Service Rep,0.9752,0.0690,0.0331,0.0340,0.1630,0.1746,0.1479,0.0904,0.0616,0.1746,0.0271
+deaf_inclusive,IT Support Specialist,0.9621,0.0793,0.0491,0.0511,0.1411,0.1628,0.1436,0.1053,0.0574,0.1150,0.0574
+deaf_inclusive,Administrative Assistant,0.9617,0.0650,0.0350,0.0289,0.1351,0.1842,0.1625,0.1144,0.0533,0.1547,0.0286
